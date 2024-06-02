@@ -1,8 +1,6 @@
-# Binance Demo
+# websocket Demo by ernest Legumchim jenkins
 
-A mobile application built with FLutter framework, that leverages the Binance WebSocket API 
-to retrieve and present real-time updates in the format of candlestick charts, mirroring the
-functionality found on the Binance platform.
+A mobile application built with FLutter framework, that connects to the Binance WebSocket API.
 
 
 
